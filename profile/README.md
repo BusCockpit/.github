@@ -13,4 +13,5 @@ Work in progress.
 | [OmsiLink](https://github.com/buscockpit/omsilink) | C# | Gaming PC | HTTP REST adapter for OMSI 2 (via OmsiHook) |
 | [Busdriver](https://github.com/buscockpit/busdriver) | Python | Raspberry Pi 4 | Drives real world dashboard (24V lights and PWM tacho), listens to BusLink |
 | [Fernbus](https://github.com/buscockpit/fernbus) | Python | Dev machines | Development and research tools |
+| [DeployLink](https://github.com/buscockpit/deploylink) | PowerShell | Target machines | Deployment scripts and tooling for installing BusCockpit components |
 | [Archive](https://github.com/buscockpit/archive) | – | – | Legacy and reference material |
