@@ -14,5 +14,5 @@ Work in progress.
 | [openOMSI](https://github.com/buscockpit/openomsi) | Rust | Gaming PC | Private mirror of [openOMSI](https://github.com/openOMSI-Project/openOMSI), the open-source OMSI 2 reimplementation, with a built-in telemetry module that speaks OmsiLink's REST API to BusLink |
 | [Busdriver](https://github.com/buscockpit/busdriver) | Python | Raspberry Pi 4 | Drives real world dashboard (24V lights and PWM tacho), listens to BusLink |
 | [Fernbus](https://github.com/buscockpit/fernbus) | Python | Dev machines | Development and research tools |
-| [DeployLink](https://github.com/buscockpit/deploylink) | PowerShell | Target machines | Deployment scripts and tooling for installing BusCockpit components |
+| [BusDepot](https://github.com/buscockpit/busdepot) | PowerShell | Dev machine + target machines | Deploy hub (formerly DeployLink): builds BusLink and OmsiLink, deploys binaries, configs and the bus YAML files to the gaming PCs, collects their run logs |
 | [Archive](https://github.com/buscockpit/archive) | – | – | Legacy and reference material |
